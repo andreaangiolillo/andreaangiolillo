@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-##### Hacktoberfest 2022
-[![@andreaangiolillo's Holopin board](https://holopin.me/andreaangiolillo)](https://holopin.io/@andreaangiolillo)
+
 
 
 <!--
+##### Hacktoberfest 2022
+[![@andreaangiolillo's Holopin board](https://holopin.me/andreaangiolillo)](https://holopin.io/@andreaangiolillo)
+
 **andreaangiolillo/andreaangiolillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
