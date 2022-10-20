@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://user-images.githubusercontent.com/5663078/196720120-d3f92c70-f996-4a89-bba3-f76f64bb9a9c.png" width="200">
+<img src="https://user-images.githubusercontent.com/5663078/196720120-d3f92c70-f996-4a89-bba3-f76f64bb9a9c.png" width="150">
 
 <!--
 ##### Hacktoberfest 2022
